@@ -1,3 +1,9 @@
+mx-idevice-mounter (0.1.5.13) mx; urgency=medium
+
+  * translation refresh
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 26 Oct 2022 23:41:33 -0400
+
 mx-idevice-mounter (0.1.5.12) mx; urgency=medium
 
   * rearrange about-box buttons
